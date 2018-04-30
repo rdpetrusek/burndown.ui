@@ -17,11 +17,11 @@ export default {
         chartsData:[
             {
                 id:1,
-                title: "test name changed",
-                startDate:"04/16/2018",
-                endDate:"04/23/2018",
-                initialEstimate: 20,
-                dailyEstimates: [20,20,13, 8]
+                title: "MHP - Common Package on Asset Manager",
+                startDate:"05/02/2018",
+                endDate:"05/8/2018",
+                initialEstimate: 2,
+                dailyEstimates: [2]
             },{
                 id:2,
                 title: "story two",
