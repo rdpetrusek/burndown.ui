@@ -17,7 +17,7 @@ export default {
         chartsData:[
             {
                 id:1,
-                title: "story 1",
+                title: "test name changed",
                 startDate:"04/16/2018",
                 endDate:"04/23/2018",
                 initialEstimate: 20,
