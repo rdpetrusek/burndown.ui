@@ -10,11 +10,6 @@ Vue.component('chart', Chart);
 export default new Router({
   routes: [
     {
-      path: '/hello',
-      name: 'HelloWorld',
-      component: HelloWorld
-    },
-    {
       path: '/',
       name: 'Burndowns',
       component: Burndowns
