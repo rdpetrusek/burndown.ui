@@ -21,21 +21,7 @@ export default {
                 startDate:"05/02/2018",
                 endDate:"05/8/2018",
                 initialEstimate: 2,
-                dailyEstimates: [2,2]
-            },{
-                id:2,
-                title: "story two",
-                startDate:"04/20/2018",
-                endDate:"04/24/2018",
-                initialEstimate: 13,
-                dailyEstimates: [13, 12, 10, 8]
-            },{
-                id:3,
-                title: "story 3",
-                startDate:"04/24/2018",
-                endDate:"05/10/2018",
-                initialEstimate: 5,
-                dailyEstimates: [5, 4, 3, 3, 1]
+                dailyEstimates: [2,2,2]
             }
         ]
     }
