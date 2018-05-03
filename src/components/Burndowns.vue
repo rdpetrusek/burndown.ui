@@ -21,7 +21,7 @@ export default {
                 startDate:"05/02/2018",
                 endDate:"05/8/2018",
                 initialEstimate: 2,
-                dailyEstimates: [2,2]
+                dailyEstimates: [2,2,2]
             }
         ]
     }
